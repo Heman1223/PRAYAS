@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDQ7z2cmWnvcmhLqt1XO2_BVt-JdI4O4gg",
+  apiKey: "",
   authDomain: "floodalert-bdb4a.firebaseapp.com",
   projectId: "floodalert-bdb4a",
   storageBucket: "floodalert-bdb4a.appspot.com",
